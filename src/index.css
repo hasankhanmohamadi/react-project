@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'IRANSANS';
+	src: local('IRANSANS'), url (./font/IRANSANS.woff)format('woff');
+}
+*{
+	font-family: 'IRANSANS' !important;
+}
